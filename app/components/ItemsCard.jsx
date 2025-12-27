@@ -247,7 +247,13 @@ const App = () => {
       itemName: "Headset-Blue",
       price: "0.000005 ETH", 
       image: "/blue.png"
-    }
+    },
+    {
+      itemId: "HS004",
+      itemName: "Headset-Purple",
+      price: "0.000005 ETH", 
+      image: "/blue.png"
+    },
   ];
 
   return (
